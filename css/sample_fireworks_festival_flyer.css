@@ -19,6 +19,7 @@ li {
 a {
   text-decoration: none;
   display: inline-block;
+  margin-top: 10px;
 }
 
 a:hover {
@@ -49,10 +50,6 @@ footer {
 
   header {
     margin: 10px;
-  }
-
-  #header a {
-    margin-top: 10px;
   }
 
   footer {
